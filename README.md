@@ -26,6 +26,7 @@
 ### Phase II
 
 
+- [ ] review and refactor
 - [ ] use Telegram for personal unlimited file storage
   - [ ] rapid search and no repetitive files
 - [ ] integrate with Mastodon Bot
@@ -41,10 +42,19 @@
 ### Phase III
 
 
+- [ ] review and refactor
+- [ ] online modern Editing Tools
 - [ ] make Github page
+- [ ] free AI features
+  - [ ] subtitle
+  - [ ] dub
 
 
 ### Phase IV
 
-👷‍♂️
+
+- [ ] Link shortner
+- [ ] support Torrent
+- [ ] other popular Platforms
+- [ ] Telegram Web App Bot
 
