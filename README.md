@@ -26,6 +26,8 @@
 ### Phase II
 
 
+- [ ] use Telegram for personal unlimited file storage
+  - [ ] rapid search and no repetitive files
 - [ ] integrate with Mastodon Bot
 - [ ] Release Project
   - [ ] AppImage
