@@ -32,13 +32,13 @@
   - [ ] Dockerize
   - [ ] Packaging
 - [ ] integrate with Gihub Actions (CI/CD)
-- [ ] make Github page
+- [ ] make Github wiki
 
 
 ### Phase III
 
 
-👷‍♂️
+- [ ] make Github page
 
 
 ### Phase IV
