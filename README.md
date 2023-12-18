@@ -12,7 +12,7 @@
 ### Phase I
 
 
-- [ ] CLI downloader with download link
+- [ ] CLI downloader (download link)
 - [ ] CLI Youtube downloader (viedeo, playlist, all videos)
 - [ ] integrate with Telegram Bot
 
