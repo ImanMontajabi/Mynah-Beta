@@ -13,7 +13,7 @@
 
 
 - [ ] CLI downloader (download link)
-- [ ] CLI Youtube downloader (viedeo, playlist, all videos)
+- [ ] CLI Youtube downloader (video, playlist, all videos)
 - [ ] integrate with Telegram Bot
 
 
