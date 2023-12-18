@@ -63,6 +63,7 @@
 ### Phase IV
 
 
+- [ ] add Donate ways to project for long time support
 - [ ] Link shortener
 - [ ] support Torrent
 - [ ] other popular Platforms
