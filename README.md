@@ -53,7 +53,7 @@
 ### Phase IV
 
 
-- [ ] Link shortner
+- [ ] Link shortener
 - [ ] support Torrent
 - [ ] other popular Platforms
 - [ ] Telegram Web App Bot
