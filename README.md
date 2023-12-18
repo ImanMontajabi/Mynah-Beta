@@ -15,6 +15,7 @@
 - [ ] CLI downloader (download link)
 - [ ] CLI Youtube downloader (video, playlist, all videos)
 - [ ] integrate with Telegram Bot
+  - [ ] upload in Telegram and create direct link
 
 
 ### Phase II
