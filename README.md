@@ -19,7 +19,7 @@
 - [ ] integrate with Telegram Bot
   - [ ] upload in Telegram and create direct link
 - [ ] easy install bash script (one line command)
-- [ ] support all Video and Audo formats
+- [ ] support all Video and Audio formats
 - [ ] minimum Third-party packages
 
 
