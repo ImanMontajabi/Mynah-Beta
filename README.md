@@ -18,12 +18,21 @@
 - [ ] CLI Youtube downloader (video, playlist, all videos)
 - [ ] integrate with Telegram Bot
   - [ ] upload in Telegram and create direct link
+- [ ] easy install bash script (one line command)
+- [ ] support all Video and Audo formats
+- [ ] minimum Third-party packages
 
 
 ### Phase II
 
 
-👷‍♂️
+- [ ] integrate with Mastodon Bot
+- [ ] Release Project
+  - [ ] AppImage
+  - [ ] Dockerize
+  - [ ] Packaging
+- [ ] integrate with Gihub Actions (CI/CD)
+- [ ] make Github page
 
 
 ### Phase III
