@@ -24,10 +24,10 @@
 ### Phase I
 
 
-- [ ] CLI downloader (download link)
+- [ ] CLI downloader (Download Link)
 - [ ] CLI Youtube downloader (video, playlist, all videos)
 - [ ] integrate with Telegram Bot
-  - [ ] upload in Telegram and create direct link
+  - [ ] upload in Telegram and create Direct Link
 - [ ] easy install bash script (one line command)
 - [ ] support all Video and Audio formats
 - [ ] minimum Third-party packages
