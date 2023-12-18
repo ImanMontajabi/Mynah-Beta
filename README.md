@@ -7,3 +7,29 @@
 
 :bulb: Open Source Youtube Downloader for self hosted Telegram Bot
 
+## 🗺️ Roadmap
+ 
+### Phase I
+
+
+- [ ] CLI downloader with download link
+- [ ] CLI Youtube downloader (viedeo, playlist, all videos)
+- [ ] integrate with Telegram Bot
+
+
+### Phase II
+
+
+👷‍♂️
+
+
+### Phase III
+
+
+👷‍♂️
+
+
+### Phase IV
+
+👷‍♂️
+
