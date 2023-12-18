@@ -11,7 +11,7 @@
 
 
 > [!TIP]
-> This project uses PEP8 style and Asynchronous methods
+> This project uses PEP8 style | Asynchronous methods | Python 3.10.12
 
  
 ## 🗺️ Roadmap
