@@ -29,6 +29,7 @@
 - [ ] use Telegram for personal unlimited file storage
   - [ ] rapid search and no repetitive files
 - [ ] integrate with Mastodon Bot
+- [ ] Audit/ Security tests and workflows
 - [ ] Release Project
   - [ ] AppImage
   - [ ] Dockerize
