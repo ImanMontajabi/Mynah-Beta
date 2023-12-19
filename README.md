@@ -1,10 +1,10 @@
 ![aleksandr-ovcharenko-ovcharenko-evil-tv-art-televizor-minima-crop](https://github.com/ImanMontajabi/PDYtube/assets/52942515/b947d41d-e414-4ca7-9ca8-f7a8b58e7562)
 
 
-# PDYtube 
+# PDYtube
 
 
-<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/12f180cb-05cb-45ab-beb8-345b8a4b1829" width="48"> ![icons8-telegram-48](https://github.com/ImanMontajabi/PDYtube/assets/52942515/ee5af949-7c63-410d-b23e-61ae6af9773b) ![icons8-github-48](https://github.com/ImanMontajabi/PDYtube/assets/52942515/ca040721-4d06-466e-a722-1e75bfa5cd73) ![icons8-mastodon-is-an-online,-self-hosted-social-media,-and-social-networking-service -48](https://github.com/ImanMontajabi/PDYtube/assets/52942515/2c37a234-e5f0-4879-a641-bec08dc1b69a)
+<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/12f180cb-05cb-45ab-beb8-345b8a4b1829" width="48"> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5b3bece1-67f9-44f3-9001-a39b340156ae" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/2cc927dd-2b6b-4e13-bd6a-a067293663c1" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5d5e9456-36ac-4f92-b243-cc45ee6ef5e2" width=48>
 
 
 > [!NOTE]
