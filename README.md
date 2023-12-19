@@ -17,7 +17,7 @@
 
 
 > [!IMPORTANT]
-> Give me a ⭐ and collaborate with me on this project. I welcome your bug reports and suggestions. This project is free forever.
+> Give me a ⭐ and collaborate with me on this project. I welcome your bug reports and suggestions. This project is free forever
 
 
 ## 🗺️ Roadmap
