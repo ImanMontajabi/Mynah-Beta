@@ -14,17 +14,14 @@
 
 
 -----------------------------
-
-
 > [!NOTE]
 > This project uses PEP8 style | Asynchronous methods | Python 3.10.12
 
 
 > [!IMPORTANT]
 > Give me a ⭐ and collaborate with me on this project. I welcome your bug reports and suggestions. This project is free forever
-
-
 -----------------------------
+
 
 ## 🗺️ Roadmap
 
