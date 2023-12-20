@@ -1,4 +1,8 @@
-![aleksandr-ovcharenko-ovcharenko-evil-tv-art-televizor-minima-crop](https://github.com/ImanMontajabi/PDYtube/assets/52942515/b947d41d-e414-4ca7-9ca8-f7a8b58e7562)
+<p align="center">
+<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/e82098ca-4b54-4282-95db-1dedce1c536a" alt="PDYtube" width="200">
+</p>
+<h1 align="center">PDYtube</h1>
+
 
 
 # PDYtube
