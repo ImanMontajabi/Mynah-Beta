@@ -4,7 +4,7 @@
 
 <h1 align="center">PDYtube</h1>
 <p align="center">This is Open Source YouTube downloader for self-hosted Telegram Bot with many other Features</p>
-<p align="center">It is easy to use and safe for personal and family Use cases</p>
+<p align="center">It is easy to use and safe for personal and family use-cases</p>
 
 
 
