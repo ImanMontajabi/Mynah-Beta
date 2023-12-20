@@ -3,24 +3,28 @@
 </p>
 
 <h1 align="center">PDYtube</h1>
+<p align="center">This is Open Source YouTube downloader for self-hosted Telegram Bot with many other Features</p>
+<p align="center">It is easy to use and safe for personal and family Use cases</p>
 
 
 
-<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/12f180cb-05cb-45ab-beb8-345b8a4b1829" width="48"> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5b3bece1-67f9-44f3-9001-a39b340156ae" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/2cc927dd-2b6b-4e13-bd6a-a067293663c1" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5d5e9456-36ac-4f92-b243-cc45ee6ef5e2" width=48>
+<p align="center">
+ <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/12f180cb-05cb-45ab-beb8-345b8a4b1829" width="48"> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5b3bece1-67f9-44f3-9001-a39b340156ae" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/2cc927dd-2b6b-4e13-bd6a-a067293663c1" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5d5e9456-36ac-4f92-b243-cc45ee6ef5e2" width=48>
+</p>
+
+
+-----------------------------
 
 
 > [!NOTE]
-> This is Open Source YouTube downloader for self-hosted Telegram Bot with many other Features
-> It is easy to use and safe for personal and family Use cases
-
-
-> [!TIP]
 > This project uses PEP8 style | Asynchronous methods | Python 3.10.12
 
 
 > [!IMPORTANT]
 > Give me a ⭐ and collaborate with me on this project. I welcome your bug reports and suggestions. This project is free forever
 
+
+-----------------------------
 
 ## 🗺️ Roadmap
 
