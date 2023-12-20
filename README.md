@@ -31,11 +31,12 @@
 
 - [ ] CLI downloader (Download Link)
 - [ ] CLI Youtube downloader (video, playlist, all videos)
+- [ ] easy install/ uninstall bash script (one line command)
+- [ ] Terminal User Interface (TUI)
 - [ ] integrate with Telegram Bot
   - [ ] upload in Telegram and create Direct Link
-- [ ] easy install bash script (one line command)
-- [ ] support all Video and Audio formats
-- [ ] minimum Third-party packages
+- [ ] support all Video and Audio formats (converter)
+- [ ] minimum third-party packages (light weight)
 
 
 ### Phase II
