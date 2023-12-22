@@ -45,7 +45,9 @@
 
 
 - [ ] review and refactor
-- [ ] use Telegram for personal unlimited file storage
+- [ ] personal unlimited file storage
+  - [ ] Telegram
+  - [ ] YouTube
   - [ ] rapid search and no repetitive files
 - [ ] integrate with Mastodon Bot
 - [ ] Audit/ Security tests and workflows
