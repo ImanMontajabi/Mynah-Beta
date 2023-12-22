@@ -31,6 +31,7 @@
 
 - [ ] CLI downloader (Download Link)
 - [ ] CLI Youtube downloader (video, playlist, all videos)
+- [ ] Google Colab version
 - [ ] easy install/ uninstall bash script (one line command)
 - [ ] Terminal User Interface (TUI)
 - [ ] integrate with Telegram Bot
