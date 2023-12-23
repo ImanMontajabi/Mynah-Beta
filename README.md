@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/e1caffbc-bd00-4333-ad39-1ed4c9b01e36" alt="PDYtube" width="200">
+<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/d54a0119-695d-4b5f-8c6e-f6e493cd274c" alt="PDYtube" width="200">
 </p>
 
 <h1 align="center">PDYtube</h1>
+
 <p align="center">This is Open Source YouTube downloader for self-hosted Telegram Bot with many other Features</p>
 <p align="center">It is easy to use and safe for personal and family use-cases</p>
 
