@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/d54a0119-695d-4b5f-8c6e-f6e493cd274c" alt="PDYtube" width="200">
+<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/4fc85611-eb04-42a7-8e92-3f2beae6e29b" alt="PDYtube" width="200">
 </p>
+
 
 <h1 align="center">PDYtube</h1>
 
