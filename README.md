@@ -68,12 +68,12 @@
 
 
 - [ ] review and refactor
-- [ ] online modern Editing Tools
+- [ ] online modern Editing Tools (AI or ...)
 - [ ] make Github page
 - [ ] free AI features
   - [ ] subtitle
   - [ ] dub
-- [ ] integrate with Mastodon Bot
+- [ ] support Torrent
 
 
 ### Phase IV
@@ -81,7 +81,7 @@
 
 - [ ] add Donate ways to project for long time support
 - [ ] Link shortener
-- [ ] support Torrent
+- [ ] integrate with Mastodon Bot
 - [ ] other popular Platforms
 - [ ] Telegram Web App Bot
 
