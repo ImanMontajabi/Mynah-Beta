@@ -68,7 +68,7 @@
 
 
 - [ ] review and refactor
-- [ ] online modern Editing Tools (AI or ...)
+- [ ] online modern Editing Tools (AI or/and ...)
 - [ ] make Github page
 - [ ] free AI features
   - [ ] subtitle
