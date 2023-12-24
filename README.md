@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/4fc85611-eb04-42a7-8e92-3f2beae6e29b" alt="PDYtube" width="200">
+<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/19e4d5e4-153d-438e-805d-8dacb4103b6f" alt="PDYtube" width="200">
 </p>
 
 
 <h1 align="center">PDYtube</h1>
 
-<p align="center">This is Open Source YouTube downloader for self-hosted Telegram Bot with many other Features</p>
-<p align="center">It is easy to use and safe for personal and family use-cases</p>
 
+<p align="center">This is Open Source YouTube downloader for self-hosted Telegram Bot with many other Features
+<br>It is easy to use and safe for personal and family use-cases</br></p>
 
 
 <p align="center">
