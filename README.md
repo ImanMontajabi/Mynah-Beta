@@ -50,7 +50,7 @@
   - [ ] Telegram
   - [ ] YouTube
   - [ ] rapid search and no repetitive files
-- [ ] integrate with Mastodon Bot
+- [ ] following YouTube channels (new videos to specified Telegram channel)
 - [ ] Audit/ Security tests and workflows
 - [ ] Release Project
   - [ ] AppImage
@@ -69,6 +69,7 @@
 - [ ] free AI features
   - [ ] subtitle
   - [ ] dub
+- [ ] integrate with Mastodon Bot
 
 
 ### Phase IV
