@@ -20,7 +20,7 @@
 
 -----------------------------
 > [!NOTE]
-> This project uses [PEP8, PEP257, PEP484, PEP526] style | Asynchronous methods | Python 3.10.12
+> This project uses `PEP8` `PEP257` `PEP484` `PEP526` styles | Asynchronous methods | Python `3.10.12`
 
 
 > [!IMPORTANT]
