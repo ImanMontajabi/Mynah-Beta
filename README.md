@@ -14,7 +14,7 @@
 
 
 <p align="center">
- <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/12f180cb-05cb-45ab-beb8-345b8a4b1829" width="48"> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5b3bece1-67f9-44f3-9001-a39b340156ae" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/2cc927dd-2b6b-4e13-bd6a-a067293663c1" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5d5e9456-36ac-4f92-b243-cc45ee6ef5e2" width=48>
+ <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/12f180cb-05cb-45ab-beb8-345b8a4b1829" width="48"> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/5b3bece1-67f9-44f3-9001-a39b340156ae" width=48> <img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/2cc927dd-2b6b-4e13-bd6a-a067293663c1" width=48> 
 </p>
 
 
@@ -81,7 +81,6 @@
 
 - [ ] add Donate ways to project for long time support
 - [ ] Link shortener
-- [ ] integrate with Mastodon Bot
 - [ ] other popular Platforms
 - [ ] Telegram Web App Bot
 
