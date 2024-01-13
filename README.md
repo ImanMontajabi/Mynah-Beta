@@ -52,7 +52,6 @@
 - [ ] review and refactor
 - [ ] personal unlimited file storage
   - [ ] Telegram
-  - [ ] YouTube
   - [ ] rapid search and no repetitive files
 - [ ] following YouTube channels (new videos to specified Telegram channel)
 - [ ] Audit/ Security tests and workflows
