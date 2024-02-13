@@ -3,10 +3,10 @@
 </p>
 
 
-<h1 align="center">PDYtube</h1>
+<h1 align="center">openTube</h1>
 
 
-<p align="center">This is Open Source YouTube downloader for self-hosted Telegram Bot with many other Features
+<p align="center">This is open source YouTube downloader for self-hosted Telegram Bot with many other Features
     <br>
          It is easy to use and safe for personal and family use-cases
     </br>
