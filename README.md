@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">TelegramTube</h1>
+<h1 align="center">TeleTube</h1>
 
 
 <p align="center">This is open source YouTube downloader for self-hosted Telegram Bot with many other Features
