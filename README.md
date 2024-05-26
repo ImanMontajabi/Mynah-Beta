@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ImanMontajabi/PDYtube/assets/52942515/19e4d5e4-153d-438e-805d-8dacb4103b6f" alt="TeleTube" width="200">
+<img src="https://github.com/ImanMontajabi/TeleTube/assets/52942515/8db4fa2e-72da-486b-9a61-00e1256cace5" alt="TeleTube" width="200">
 </p>
 
 
