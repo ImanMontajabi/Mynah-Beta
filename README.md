@@ -37,7 +37,7 @@
 
 - [ ] CLI downloader (Download Link)
 - [ ] CLI Youtube downloader (video, playlist, all videos)
-- [ ] try with [Codon](https://docs.exaloop.io/codon)
+- [ ] try with PyPy compiler
 - [ ] Google Colab version
 - [ ] easy install/ uninstall bash script (one line command)
 - [ ] Terminal User Interface (TUI)
