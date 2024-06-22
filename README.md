@@ -21,7 +21,7 @@
 
 -----------------------------
 > [!NOTE]
-> This project uses `PEP8` `PEP257` `PEP484` `PEP526` | Asynchronous methods | Python `3.12.3` | PyPy
+> This project uses `PEP8` `PEP257` `PEP484` `PEP526` | Asynchronous methods | PyPy `3.10`
 
 
 > [!IMPORTANT]
