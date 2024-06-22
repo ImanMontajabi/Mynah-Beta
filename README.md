@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/ImanMontajabi/TeleTube/assets/52942515/8db4fa2e-72da-486b-9a61-00e1256cace5" alt="TeleTube" width="200">
+<img src="https://github.com/ImanMontajabi/TeleTube/assets/52942515/18b9aecd-7cb7-4b01-964d-1cc75a250b73" alt="TeleTube" width="200">
 </p>
+
 
 
 <h1 align="center">TeleTube</h1>
