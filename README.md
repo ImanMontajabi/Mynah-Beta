@@ -4,7 +4,7 @@
 
 # Mynah-Beta
 
-Video/Audio Downloader for Linux 🐧 and Windows 🪟
+ for Linux 🐧 and Windows 🪟
 
 Beta: Version 0.0.0
 
