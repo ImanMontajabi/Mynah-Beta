@@ -4,8 +4,6 @@
 
 # Mynah-Beta
 
- for Linux 🐧 and Windows 🪟
-
 Beta: Version 0.0.0
 
 [➡️ Go to Stable Version](https://github.com/ImanMontajabi/Mynah)
