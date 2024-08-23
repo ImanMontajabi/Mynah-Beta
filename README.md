@@ -6,4 +6,4 @@
 
 Video/Audio Downloader for Linux 🐧 and Windows 🪟
 
-Beta version
+Beta: Version 0.0.0
