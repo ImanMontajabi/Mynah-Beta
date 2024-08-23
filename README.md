@@ -2,8 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/b9cfd407-e3a5-4ff7-ab0e-c1cdd8d79871"  width=160 height=160  align="center">
 
-# Mynah-CLI
+# Mynah-Beta
 
 Video/Audio Downloader for Linux 🐧 and Windows 🪟
 
-CLI version
+Beta version
