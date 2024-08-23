@@ -4,4 +4,6 @@
 
 # Mynah-CLI
 
-Video/Audio Downloader for Linux 🐧 and Windows 🪟 (CLI version)
+Video/Audio Downloader for Linux 🐧 and Windows 🪟
+
+CLI version
