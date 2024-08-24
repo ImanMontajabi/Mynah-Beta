@@ -4,7 +4,7 @@
 
 # Mynah-Beta
 
-Beta: Version 0.0.0
+Beta: Version `0.0.0`
 
 [➡️ Go to Stable Version](https://github.com/ImanMontajabi/Mynah)
 
